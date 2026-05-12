@@ -1,0 +1,105 @@
+# =========================
+# .NET / C# / Visual Studio
+# =========================
+
+bin/
+obj/
+out/
+artifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================
+# Logs y temporales
+# =========================
+
+*.log
+*.tmp
+*.temp
+*.cache
+
+# =========================
+# Sistema operativo
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# NuGet / paquetes
+# =========================
+
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# =========================
+# Publicación
+# =========================
+
+publish/
+*.publishproj
+
+# =========================
+# Testing
+# =========================
+
+TestResults/
+*.trx
+
+# =========================
+# Cobertura de código
+# =========================
+
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+# Herramientas adicionales
+# =========================
+
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Archivos obsoletos
+# =========================
+
+project.lock.json
+project.fragment.lock.json
+
+# =========================
+# Configuración local
+# =========================
+
+appsettings.Development.json
+
+# =========================
+# Backups
+# =========================
+
+*.bak
+*.old
+*.orig
+*.pidb
+*.svclog
+
+# =========================
+# Código generado
+# =========================
+
+Generated_Code/
